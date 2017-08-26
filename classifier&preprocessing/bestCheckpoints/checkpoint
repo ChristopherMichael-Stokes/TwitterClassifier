@@ -1,0 +1,2 @@
+model_checkpoint_path: "G:\\Tensorflow\\classifier&preprocessing\\bestCheckpoints\\ImprovedModel.tfl.ckpt8903"
+all_model_checkpoint_paths: "G:\\Tensorflow\\classifier&preprocessing\\bestCheckpoints\\ImprovedModel.tfl.ckpt8903"
